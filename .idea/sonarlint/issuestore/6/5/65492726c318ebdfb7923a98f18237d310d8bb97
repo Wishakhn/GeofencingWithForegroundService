@@ -1,0 +1,7 @@
+
+;squid:S1118
+"Hide this public constructor.(ğé¸8¢À­“ú-
+Msquid:S1481 "/Remove this unused "mResources" local variable.(äÍèç8öœ·“ú-
+\squid:S1854 ">Remove this useless assignment to local variable "mResources".(äÍèç8öœ·“ú-
+Ÿsquid:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğé¸8¼¢º“ú-

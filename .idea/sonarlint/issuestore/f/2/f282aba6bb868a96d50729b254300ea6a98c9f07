@@ -1,0 +1,20 @@
+
+jsquid:S2184¢"FCast one of the operands of this multiplication operation to a "long".(ÏÐ’ïüÿÿÿÿ8à¹Ò”ú-
+usquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÍâµýÿÿÿÿ8à¹Ò”ú-
+W
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(Ÿçµì8à¹Ò”ú-
+Isquid:S00108Â")Either remove or fill this block of code.(å¥ž‡8à¹Ò”ú-
+W
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(¿®Àð8à¹Ò”ú-
+W
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(Í²…È8à¹Ò”ú-
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(¡­ª¤8ºÎã–ú-
+lsquid:MaximumInheritanceDepth "<This class has 6 parents which is greater than 5 authorized.(ô¯Ì8ƒ²Ï“ú-
+V
+squid:S106x"9Replace this use of System.out or System.err by a logger.(íØÓŽ8à¹Ò”ú-
+^squid:S1161¾":Add the "@Override" annotation above this method signature(Ó»×¶þÿÿÿÿ8à¹Ò”ú-
+\
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(Ãëø®ùÿÿÿÿ8à¹Ò”ú-
+jsquid:CallToDeprecatedMethod©"5Remove this use of "GeofencingApi"; it is deprecated.(››œ×øÿÿÿÿ8à¹Ò”ú-
+jsquid:CallToDeprecatedMethod†"5Remove this use of "GeofencingApi"; it is deprecated.(ÖòóÔÿÿÿÿÿ8ô¼”•ú-
