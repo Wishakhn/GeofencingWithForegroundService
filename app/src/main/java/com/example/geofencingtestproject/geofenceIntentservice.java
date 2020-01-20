@@ -10,7 +10,6 @@ import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.os.Build;
 import android.text.TextUtils;
-import android.util.Log;
 
 import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
@@ -23,9 +22,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class geofenceIntentservice extends IntentService {
-    private static final int JOB_ID = 573;
-
-    private static final String TAG = "GeofenceTransitionsIS";
 
     private static final String CHANNEL_ID = "channel_01";
     String geofenceDetails = "";

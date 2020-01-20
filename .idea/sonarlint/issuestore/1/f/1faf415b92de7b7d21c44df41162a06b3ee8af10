@@ -1,10 +1,10 @@
 
 V
 squid:S1067"9Replace this use of System.out or System.err by a logger.(İÓÁ¾8Öì€“ú-
-Hsquid:S1068"*Remove this unused "JOB_ID" private field.(Šæ¸8¼Ìõ’ú-
-Jsquid:S1068"'Remove this unused "TAG" private field.(Íú·™şÿÿÿÿ8‘¤¿“ú-
-nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(–ó©úÿÿÿÿ8·õ†“ú-
 jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“®ı»ıÿÿÿÿ
+Hsquid:S1068"*Remove this unused "JOB_ID" private field.(Šæ¸8¼Ìõ’ú-
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(–ó©úÿÿÿÿ8·õ†“ú-
+Jsquid:S1068"'Remove this unused "TAG" private field.(Íú·™şÿÿÿÿ8‘¤¿“ú-
 [
 squid:S106+"9Replace this use of System.out or System.err by a logger.(ÄšŞıÿÿÿÿ8‘¤¿“ú-
 ]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8‘¤¿“ú-
